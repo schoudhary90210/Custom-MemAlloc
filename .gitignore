@@ -1,0 +1,7 @@
+# Compiled binaries and objects
+*.o
+mdriver
+*.dSYM/
+
+# System files
+.DS_Store
